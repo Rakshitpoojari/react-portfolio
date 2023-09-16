@@ -2,8 +2,8 @@ import React from "react";
 import "./style.css";
 import {
   FaGithub,
-  FaTwitter,
-  FaFacebookF,
+  FaWhatsapp,
+  FaInstagram,
   FaLinkedin,
   FaYoutube,
   FaTwitch,
@@ -14,30 +14,30 @@ export const Socialicons = (params) => {
   return (
     <div className="stick_follow_icon">
       <ul>
-        {socialprofils.twitter && (
+        {socialprofils.Whatsapp && (
           <li>
-            <a href={socialprofils.twitter}>
-              <FaTwitter />
+            <a href={socialprofils.Whatsapp} target="blank">
+              <FaWhatsapp />
             </a>
           </li>
         )}
         {socialprofils.github && (
           <li>
-            <a href={socialprofils.github}>
+            <a href={socialprofils.github} target="blank">
               <FaGithub />
             </a>
           </li>
         )}
-        {socialprofils.facebook && (
+        {socialprofils.Instagram && (
           <li>
-            <a href={socialprofils.facebook}>
-              <FaFacebookF />
+            <a href={socialprofils.Instagram} target="blank">
+              <FaInstagram />
             </a>
           </li>
         )}
         {socialprofils.linkedin && (
           <li>
-            <a href={socialprofils.linkedin}>
+            <a href={socialprofils.linkedin} target="blank">
               <FaLinkedin />
             </a>
           </li>

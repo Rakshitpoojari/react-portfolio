@@ -1,48 +1,48 @@
-const logotext = "JOHN";
+const logotext = "RAKSHIT";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Rakshit Poojari",
+    description: "I’m Rakshit Poojari  Full stack devloper(MERN),Grad From Mangalore(CSE)",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Rakshit Poojari",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I'm From Mangalore",
+        third: "I develop Web Application",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Computer Science Engineering graduate, with a keen interest in Java programming. Eager to launch a career in Software Development, where I can harness the power of Java to create efficient and innovative solutions. Open to collaboration, dedicated to continuous learning, and excited to connect with professionals who share my enthusiasm for Java.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About Me",
+    aboutme: "I'm a versatile IT professional skilled in web development, Java development, and software engineering. With expertise in MERN stack and Java Spring, I create user-friendly websites and robust enterprise solutions. My passion lies in crafting innovative software that delivers real value",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Under Graduation",
+        where: "Mangalore Institute of Technology & Engineering",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
+        jobtitle: "Senior Secondary",
+        where: "Alva’s Pu College",
         date: "2019",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Secondary School",
+        where: "Rotary English Medium High School",
+        date: "2017",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Java",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Springboot",
+        value: 75,
     },
     {
         name: "Javascript",
@@ -53,22 +53,22 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Node.js",
         value: 85,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Web Developer",
+        description: "I'm a web developer with a passion for creating responsive and user-friendly websites. I specialize in front-end and back-end technologies, ensuring seamless user experiences and robust functionality.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Java Developer",
+        description: "I'm a Java developer dedicated to crafting efficient and scalable software solutions. My expertise covers Java Spring, database integration, and microservices architecture. I'm committed to building reliable and high-performance applications",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "SDE",
+        description: "I'm a Software Development Engineer (SDE) with a passion for solving complex problems through code. I specialize in designing and building scalable software solutions, ensuring efficiency and reliability.",
     },
 ];
 
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "Rakshitpo54@gmail.com",
+    YOUR_FONE: "+91-9591373354",
+    description: "I'm a versatile developer skilled in MERN stack and Java Spring technologies. I excel in crafting seamless user experiences and secure, scalable enterprise applications. My expertise spans front-end design, back-end development, and rigorous testing for top-notch results ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Rakshitpoojari",
+    Instagram: "https://instagram.com/_mr_daredevil/",
+    linkedin: "https://www.linkedin.com/in/rakshitpoojari",
+    Whatsapp: "https://wa.me/09591373354",
 };
 export {
     meta,
