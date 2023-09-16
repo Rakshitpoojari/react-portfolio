@@ -141,9 +141,9 @@ const contactConfig = {
     description: "I'm a versatile developer skilled in MERN stack and Java Spring technologies. I excel in crafting seamless user experiences and secure, scalable enterprise applications. My expertise spans front-end design, back-end development, and rigorous testing for top-notch results ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_1vd6yz9",
+    YOUR_TEMPLATE_ID: "template_tq3ykn9",
+    YOUR_USER_ID: "UU3RXFMeSum0fZBMX",
 };
 
 const socialprofils = {
